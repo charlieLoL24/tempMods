@@ -1,0 +1,14 @@
+name = "Temp Modpack"
+author = "Charlie"
+version = "1.0.0"
+description = "Client and server NeoForge modpack"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7b96406f4322403019efdcc2681d07e547d1b26ced5dafdf782a293640062e09"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.230"

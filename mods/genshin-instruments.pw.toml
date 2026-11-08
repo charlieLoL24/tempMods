@@ -1,0 +1,13 @@
+name = "Genshin Instruments"
+filename = "genshinstrument-neoforge-1.21-1.21.1-5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1eecc4734bc280eb0ef68e387ad9574c41c8482e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6829297
+project-id = 848761
