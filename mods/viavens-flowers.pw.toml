@@ -1,12 +1,13 @@
 name = "Viavens Flowers"
-filename = "viavens_flowers-1.2.6-neoforge-1.21.1.jar"
+filename = "viavens_flowers-1.3.0-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xOw37Qdw/versions/RKMtCZlN/viavens_flowers-1.2.6-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/xOw37Qdw/versions/calfDhDW/viavens_flowers-1.3.0-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "48d955323e2362e8856a5921d23bec83f99d07858c19a7788d2b3f8682782fa354d2b20bb27eecdb104160010afb09d2911424c6ca7e93cedcbaf405daa8606b"
+hash = "fdd3302bf1fd49d15cbf5a24e00c462b4f931b144883cebb06235ac736fdd20e6497799a0a79de8150d9b94739e5ca88a31f9a4bae95b147beaec3150aa273fe"
 
+[update]
 [update.modrinth]
 mod-id = "xOw37Qdw"
-version = "RKMtCZlN"
+version = "calfDhDW"
