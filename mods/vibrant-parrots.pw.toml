@@ -1,0 +1,13 @@
+name = "Vibrant Parrots"
+filename = "vibrantparrots-v21.1.1-mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1cd08c134cd75a7f2729cc2a27b96d7b314623a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9360214
+project-id = 1576253
