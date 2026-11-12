@@ -391,21 +391,6 @@ hash = "2206924eb985a97a472a517fb743d3fb61250c5cc7fe6d5c42512aa10965e500"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-trees-terralith.pw.toml"
-hash = "df22b3853d91b2dc0e2a87a1b0b695fcdcd83f6c762e779447572270a2f66cd5"
-metafile = true
-
-[[files]]
-file = "mods/dynamictrees.pw.toml"
-hash = "dff0d39a68612485952a8d0349352d98fd8cd511e3a50f7c00b4df2e3a39ae18"
-metafile = true
-
-[[files]]
-file = "mods/dynamictreesplus.pw.toml"
-hash = "31bc57c95f33567ce931d7df6b4ddcebea9012819aefdbc2a6703191b55db679"
-metafile = true
-
-[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "4eec945a58912ffd8580d2d69c1c3ff3b0c86bbb6d77653295e01c7a761dd830"
 metafile = true
