@@ -561,6 +561,11 @@ hash = "29887fd9701a1fe7e612817892f8066a0395642002c4325a3a471ca7d87eed0c"
 metafile = true
 
 [[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "55c21e0159f5509b84d1e1fa42c2e478a3600c43007ede829cad5839aaa1b8da"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "3d451e243b0ba407303465590966212e979410ff2383efa5ae754a89f6ac87d4"
 metafile = true
@@ -693,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1506a3d749a45bc760b3ad57ef1fbb959f0c166b6d1d4955114fd66db7a4855d"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-lang-forge.pw.toml"
+hash = "d77313b6e12a4e9dba2ab7b6da95797a7b69fc177116c10db7b992b3e31fd4f8"
 metafile = true
 
 [[files]]
@@ -1136,6 +1146,11 @@ hash = "8c7ceb0dfb0c8b456a767d613e56a03c792a7596499f0dcacb0b744376db2978"
 metafile = true
 
 [[files]]
+file = "mods/titanium.pw.toml"
+hash = "01fa889082fbcae62d6dd07d4220032a1d4018edbcd82a28c54e44a8556157b2"
+metafile = true
+
+[[files]]
 file = "mods/too-fast.pw.toml"
 hash = "652bc2a41a85b48d4b4e8103b4be578326b42afad1cdcfb8257a114dd713f1bb"
 metafile = true
@@ -1168,6 +1183,11 @@ metafile = true
 [[files]]
 file = "mods/variants-and-ventures.pw.toml"
 hash = "d00c1b5dc4ccb271b2e75289b8f49be74a0d19c2fad8cb8240c2699ae4f71831"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "787f466d0c45149b76cca4c642820c4d1951211ae5d86a8fd358f0ad87f5176a"
 metafile = true
 
 [[files]]
