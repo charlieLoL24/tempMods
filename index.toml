@@ -556,11 +556,6 @@ hash = "df64ca595f6f0f79e3a4a844fd0a887b44f5e007f5deb9ac011b5cf67b3a2127"
 metafile = true
 
 [[files]]
-file = "mods/ftb-materials.pw.toml"
-hash = "e1243db410aa312fc770d24fba6b25076736bc13cf094a033f208e68d5695758"
-metafile = true
-
-[[files]]
 file = "mods/ftb-stuff-things.pw.toml"
 hash = "29887fd9701a1fe7e612817892f8066a0395642002c4325a3a471ca7d87eed0c"
 metafile = true
