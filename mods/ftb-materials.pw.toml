@@ -1,0 +1,13 @@
+name = "FTB Materials"
+filename = "ftb-materials-21.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8f5ae56ecc06c604c260e45179ee8913a8a3276f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8400478
+project-id = 1124942
