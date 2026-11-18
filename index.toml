@@ -631,11 +631,6 @@ hash = "cae478c98f3567bdcb7c979e779968958810995c642c199df03dce4b671cae04"
 metafile = true
 
 [[files]]
-file = "mods/immersivepetroleum.pw.toml"
-hash = "07deb48161a03d4e701eb50da02343b06585fc04f2328aee5a9ad4bc62c2686a"
-metafile = true
-
-[[files]]
 file = "mods/incendium.pw.toml"
 hash = "9cc52a7ca3bf271c172dcb9e8071a37f7612177023808b3aa1d186d1878be959"
 metafile = true
