@@ -156,8 +156,18 @@ hash = "76fc9a98ef5563c61ab05e868fbfd0b4ef803ff6173b8e31ff160fa1584522c7"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
+metafile = true
+
+[[files]]
 file = "mods/botany-pots.pw.toml"
 hash = "7f15d2a8073acb45deb513897a3e45c0f6846db64098559eb9048c4695471ed2"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "66f64dd86c6a39c69d0feca05c79f58f30ebffcd6d4851628b671acb6eb8be18"
 metafile = true
 
 [[files]]
@@ -947,7 +957,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "1bb44f9189390fd3c4c5a8c2ade6c50be2dc0ea6460c3681e859ed1bfdafc27a"
+hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
